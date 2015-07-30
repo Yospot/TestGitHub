@@ -12,6 +12,8 @@ namespace ConsolaTestGitHub
         {
             Console.WriteLine("Probando Git");
             Console.ReadKey();
+            Console.WriteLine("Probando nuevo comit");
+            Console.ReadKey();
         }
     }
 }
